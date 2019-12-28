@@ -1,4 +1,4 @@
-# MitsuScreenshots
+# mitsuscreenshots
 ## Version 1
 Организация файлов по Год/Месяц/День в папке ~/Pictures/Screenshots. Файлы для организации берутся из папки ~/Pictures/Screenshots/Unsorted.
 ## Version 2

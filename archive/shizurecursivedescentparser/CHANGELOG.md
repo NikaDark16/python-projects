@@ -1,4 +1,4 @@
-# ShizuRecursiveDescentParser
+# shizurecursivedescentparser
 ## Version 1
 * Don't work(
 ## Version 2
