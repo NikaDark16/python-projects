@@ -8,17 +8,17 @@ Collection of old projects.
 
 ### 2019.6
 
-* [arisulolstats](https://github.com/IceArrow256/python-projects/tree/master/archive/open-it)
+* [arisulolstats](https://github.com/IceArrow256/python-projects/tree/master/archive/arisulolstats)
 
 ### 2019.9
 
-* [mitsuscreenshots](https://github.com/IceArrow256/python-projects/tree/master/archive/open-it)
-* [shizurecursivedescentparser](https://github.com/IceArrow256/python-projects/tree/master/archive/open-it)
-* [rikaset](https://github.com/IceArrow256/python-projects/tree/master/archive/open-it)
+* [mitsuscreenshots](https://github.com/IceArrow256/python-projects/tree/master/archive/mitsuscreenshots)
+* [shizurecursivedescentparser](https://github.com/IceArrow256/python-projects/tree/master/archive/shizurecursivedescentparser)
+* [rikaset](https://github.com/IceArrow256/python-projects/tree/master/archive/rikaset)
 
 ### 2019.10
 
-* [sayaset](https://github.com/IceArrow256/python-projects/tree/master/archive/open-it)
+* [sayaset](https://github.com/IceArrow256/python-projects/tree/master/archive/sayaset)
 
 ## License
 
