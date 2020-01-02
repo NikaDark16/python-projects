@@ -25,6 +25,7 @@ Collection of old projects.
 ### 2020.1
 
 * [symlinks](https://github.com/IceArrow256/python-projects/tree/master/projects/symlinks)
+* [screenshots](https://github.com/IceArrow256/python-projects/tree/master/projects/screenshots)
 
 ## License
 
