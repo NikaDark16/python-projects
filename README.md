@@ -20,6 +20,12 @@ Collection of old projects.
 
 * [sayaset](https://github.com/IceArrow256/python-projects/tree/master/archive/sayaset)
 
+## Projects
+
+### 2020.1
+
+* [symlinks](https://github.com/IceArrow256/python-projects/tree/master/projects/symlinks)
+
 ## License
 
 Python projects is licensed under the Unlicense, please see LICENSE for details.
