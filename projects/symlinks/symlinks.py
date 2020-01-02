@@ -14,7 +14,7 @@ def ln(src: str, dst: str):
         os.rmdir(dst)
     os.makedirs(src, exist_ok=True)
     print(src)
-    os.system("mklink /J {} \"{}\"".format(dst, src))
+    os.system("mklink /J \"{}\" \"{}\"".format(dst, src))
 
 def main():
     symlinks = fs.load_json("symlinks.json", False)

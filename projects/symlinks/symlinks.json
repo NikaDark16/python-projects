@@ -1,0 +1,26 @@
+{
+    "Google Drive": [
+        "%icearrow256%/Music/Sync"
+    ],
+    "Dropbox": [
+        "/Programs/RPCS3/dev_hdd0/home",
+
+        "%icearrow256%/AppData/Roaming/Nitroplus",
+        "%icearrow256%/AppData/Roaming/Code/User",
+        "%icearrow256%/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup",
+
+        "%icearrow256%/Documents/Studies",
+        "%icearrow256%/Documents/Sync",
+
+        "%icearrow256%/Downloads/Sync",
+        
+        "%icearrow256%/Pictures/Avatar",
+        "%icearrow256%/Pictures/Dakimakura",
+        "%icearrow256%/Pictures/Icons",
+        "%icearrow256%/Pictures/Images",
+        "%icearrow256%/Pictures/Meme",
+        "%icearrow256%/Pictures/Screenshots",
+        "%icearrow256%/Pictures/Useful",
+        "%icearrow256%/Pictures/Wallpapers"
+    ]
+}
