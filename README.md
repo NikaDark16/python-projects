@@ -1,6 +1,6 @@
 # Python projects
 
-A collection of small python projects to develop my skills.
+A collection of small or old python's projects to develop my skills.
 
 ## Archive
 
@@ -21,6 +21,8 @@ Collection of old projects.
 * [sayaset](https://github.com/IceArrow256/python-projects/tree/master/archive/sayaset)
 
 ## Projects
+
+New but small projects.
 
 ### 2020.1
 
